@@ -204,6 +204,10 @@ footer .social-links a:hover{
     .content-container h1{
         font-size: 44px;
     }
+    .content-container.container{
+        padding-top: 0;
+        margin-top: 0;
+    }
     footer .contact-box{
         padding: 30px;
     }
